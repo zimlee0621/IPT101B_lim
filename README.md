@@ -13,4 +13,5 @@ NEW COMMIT 2
 
 -FEATURE 1
 -This is a new feature
--Feature 2
+-FEATURE 2
+
