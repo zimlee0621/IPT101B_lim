@@ -1,4 +1,8 @@
-#include <stdio.h
+#include <stdio.h>
+
+// Programmer 3. This part must be used for the pull request.
+int sum(int num1, int num2) {
+    return num1 + num2;
 
 // Programmer 1. This part must be used for the main branch. 
 int main() {
